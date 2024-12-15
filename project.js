@@ -1,7 +1,7 @@
 // 1. Despot some money X
 // 2. Determine number of lines to bet on X
 // 3. Collect a bet amount X
-// 4. Spin the slot machine -
+// 4. Spin the slot machine X
 // 5. check if the user won
 // 6. give the user their winnings
 // 7. play again
