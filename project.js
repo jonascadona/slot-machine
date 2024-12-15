@@ -61,8 +61,7 @@ const getBet = (balance, lines) => {
     } else {
       return numberBet;
     }  
-  }  
-};
+  };  
 
 const spin = () => {
   const symbols = [];
