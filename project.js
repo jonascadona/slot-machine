@@ -61,8 +61,8 @@ const getBet = (balance, lines) => {
     } else {
       return numberBet;
     }  
-  };  
-
+  }  
+};
 const spin = () => {
   const symbols = [];
   for (const [symbol, count] of Object.entries(SYMBOLS_COUNT)) {
